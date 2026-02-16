@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/vikaushi/vikaushi-sunstar/:/",
+      "/content/vikaushi/vikaushi-sunstar/configuration:/.helix/config.json",
+      "/content/vikaushi/vikaushi-sunstar/metadata:/metadata.json",
+      "/content/vikaushi/vikaushi-sunstar/configs:/configs.json",
+      "/content/vikaushi/vikaushi-sunstar/configs-stage:/configs-stage.json",
+      "/content/vikaushi/vikaushi-sunstar/configs-dev:/configs-dev.json",
+      "/content/vikaushi/vikaushi-sunstar/redirects:/redirects.json",
+      "/content/vikaushi/vikaushi-sunstar/placeholders:/placeholders.json",
+      "/content/vikaushi/vikaushi-sunstar/products/recommended-products:/products/recommended-products.json",
+      "/content/vikaushi/vikaushi-sunstar/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/vikaushi/vikaushi-sunstar/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/vikaushi/vikaushi-sunstar",
       "/content/dam/citisignal/images/products/"
     ]
 }
